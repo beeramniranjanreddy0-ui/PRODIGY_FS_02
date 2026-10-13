@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* Focus mode style overrides */
+div#root > div > header > div > div > div:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(1) {
+  background-color: #e61414;
+}
+
+div#root > div > header > div > div > div:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(2) {
+  background-color: #f7f2f2;
+}
+
+div#root > div > main > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > svg:nth-of-type(1) {
+  background-color: #ffffff;
+}
+
+div#root > div > main > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > svg:nth-of-type(1) > circle:nth-of-type(1) {
+  background-color: #f1ecec;
+}

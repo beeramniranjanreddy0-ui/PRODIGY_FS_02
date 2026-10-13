@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "Secure Employee Management System with role-based access control, CRUD operations, and employee analytics for Prodigy Infotech Internship Task 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
